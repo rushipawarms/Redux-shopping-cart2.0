@@ -2,7 +2,7 @@ import smartphone from './smartphone.jpg';
 import book from './book.jpg';
 import speaker from './speaker.jpg';
 import * as actionTypes from './actions'
-
+//reducer used for storing states
 const initialState = {
     products:[
         {
